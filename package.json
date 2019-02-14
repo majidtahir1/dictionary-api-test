@@ -1,0 +1,16 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "description": "apiary test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000"
+  },
+  "author": "Majid Tahir",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.1",
+    "mocha": "^5.2.0"
+  }
+}

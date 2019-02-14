@@ -1,0 +1,7 @@
+{
+	"test":{
+		"authorization":"",
+		"contentType":"application/json",
+		"server":"https://dictionary.iachieved.it"
+	}
+}
