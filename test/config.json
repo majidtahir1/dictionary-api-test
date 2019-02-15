@@ -1,6 +1,6 @@
 {
 	"test":{
-		"authorization":"",
+		"authorization":"authorization token goes here",
 		"contentType":"application/json",
 		"server":"https://dictionary.iachieved.it"
 	}
